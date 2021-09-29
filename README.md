@@ -9,3 +9,9 @@
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=giathuan0506&show_icons=true&theme=material-palenight"/>
+
+<hr/>
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giathuan0506&layout=compact&theme=material-palenight" />
+
