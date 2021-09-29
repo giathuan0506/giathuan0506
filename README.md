@@ -6,3 +6,6 @@
     <br> I'm a student at Faculty of Information Technology, Vietnam National University Ho Chi Minh City - University of Science (VNU-HCMUS)<br/>
   </samp>
 </p>
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=giathuan0506&show_icons=true&theme=material-palenight"/>
