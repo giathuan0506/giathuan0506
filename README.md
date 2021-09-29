@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋![image](https://user-images.githubusercontent.com/53006660/135311947-4bab8b58-120e-4dc1-86c8-c970569b1889.png)
+
+
+                                                    |___/                                                               
 
 <!--
 **giathuan0506/giathuan0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
